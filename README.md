@@ -41,9 +41,24 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 
 --------------------------------------------------------------
 
-### 步骤 ###
-   *** **有错误/问题请看**:    [常见错误及解决办法/更新日志](https://github.com/wangziyingwen/Autoapi-test) ***   
+## 步骤 ##  
 
+   >:blush: :blush: :blush: :blush: :blush: :blush: 
+   
+   >请注意！请注意！请注意！
+   
+   >*** **有错误/问题请看**:    [常见错误及解决办法/更新日志](https://github.com/wangziyingwen/Autoapi-test)
+   
+   >*** 原教程/博客好像也坏了，看[视频教程](https://www.bilibili.com/video/av95688306/)吧，懒得补充，ORZ. （或者去网上搜一下，有一堆转载，关键词：github action e5 续期）
+   
+   >*** 注册应用时用到的[azure管理页面](https://portal.azure.com/)，或者直接到[仪表板](https://aad.portal.azure.com/)，找到注册应用选项
+   
+   >***【重定向URI】填写的内容：http://localhost:53682/
+
+   >*** rclone下载，请自行百度谷歌，官网好像是[rclone.org](https://rclone.org)
+   
+   >:anguished: :anguished: :anguished: :anguished: :anguished: :anguished:  
+  
 * 第一步，先大致浏览[原教程](https://blog.432100.xyz/index.php/archives/50/)，了解如何获取应用id、机密、refresh_token 3样东西，以方便接下来的操作。
 
 * 第二步，登陆/新建github账号，回到本项目页面，点击右上角fork本项目的代码到你自己的账号，然后你账号下会出现一个一模一样的项目，接下来的操作均在你的这个项目下进行。（看不到图片/图裂请科学上网）
@@ -136,10 +151,6 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
   wz.lxh@outlook.com
   
   Q群：[657581700](https://jq.qq.com/?_wv=1027&k=5FQJbWmV)  （项目相关讨论）
-  
-  tg群：[OneDrive E5](https://t.me/joinchat/OLlK9RsbBlmTYOJS_BU4Mg)   （**非项目相关**讨论！**tg可能不会及时在线回答问题**，任何项目相关的问题或出错请进Q群/邮箱/issue）
-  
-
   
   最后的最后，再次感谢黑幕/paran大佬
   
